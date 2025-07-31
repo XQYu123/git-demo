@@ -10,3 +10,4 @@ hello itheima! hello git!
 hello itheima! hello git! master test
 hello itheima! hello git! hot-fix test
 11111111111111111111111111111111111111
+222222222222222222222222 update by lhc
